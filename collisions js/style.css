@@ -1,0 +1,12 @@
+body{
+    background-color: #222;
+}
+
+#myCanvas{
+    border: 4px hotpink solid;
+}
+/* .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
